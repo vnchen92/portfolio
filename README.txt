@@ -1,17 +1,21 @@
-Credits:
+## Portfolio
 
-	Prologue by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Template by HTML5 UP
 
-	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
-		Unsplash (unsplash.com)
+## Credits
 
-	Icons:
-		Font Awesome (fontawesome.io)
+Prologue by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-	Other
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Demo Images:
+	Felicia Simion (ineedchemicalx.deviantart.com)
+	Unsplash (unsplash.com)
+
+Icons:
+	Font Awesome (fontawesome.io)
+
+Other
+	jQuery (jquery.com)
+	Scrollex (github.com/ajlkn/jquery.scrollex)
+	Responsive Tools (github.com/ajlkn/responsive-tools)
