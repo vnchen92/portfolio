@@ -2264,6 +2264,10 @@ input, select, textarea {
 				background-color: #e8edec;
 			}
 
+			#main > secion.five {
+				background-color: hsl(168, 12%, 92%);
+			}
+
 /* Wide */
 
 	@media screen and (min-width: 961px) and (max-width: 1880px) {
